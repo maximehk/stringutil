@@ -1,3 +1,3 @@
-module github.com/maximeh/stringutil
+module github.com/maximehk/stringutil
 
 go 1.14
